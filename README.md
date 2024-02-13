@@ -18,10 +18,11 @@ Dive in for seamless tech and productivity fusion 🚀📚.
 
 **Example Output**
 
-20240213T123129 | Python Program Filename: 20230727T093616_PyRvwr.py
+20240213T123129 | Python Program Filename: PyRvwr_GPT.py
 Referenced Document: G:\My Drive\REACT\ReactJSNotesForProfessionals.pdf
 
-Question: 
+Question:
+What is this document about?
 
 Answer:
 It seems like you're looking for information on React JS, specifically about getting started and components. Let's dive into some of the key points from the sections you've mentioned:
