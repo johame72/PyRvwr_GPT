@@ -17,6 +17,7 @@ PyRvwr_GPT 🌟 is a powerful tool for document processing and analysis, integra
 Dive in for seamless tech and productivity fusion 🚀📚.
 
 **Example Output**
+
 20240213T123129 | Python Program Filename: 20230727T093616_PyRvwr.py
 Referenced Document: G:\My Drive\REACT\ReactJSNotesForProfessionals.pdf
 
