@@ -1,4 +1,4 @@
-PyRvwr_GPT 🌟 is a powerful tool for document processing and analysis, integrating OpenAI's GPT-4 ("gpt-4-0125-preview") for deep insights. Here's how to get started:
+***PyRvwr_GPT*** 🌟 is a powerful tool for document processing and analysis, integrating OpenAI's GPT-4 ("gpt-4-0125-preview") for deep insights. Here's how to get started:
 
 1. **Setup** 🛠️: Install Python, essential libraries (e.g., PIL, PyMuPDF, Pytesseract), Tesseract OCR, and set Google Cloud credentials.
 
